@@ -21,7 +21,7 @@ repository               : "jhkim0714/jhkim0714.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "JK_profile.jpg"
+  avatar           : "JK_profile.png"
   name             : "Jeong Hee Kim"
   pronouns         : # example: "she/her"
   bio              : "School of Engineering Distinguished Postdoctoral Fellow @ MIT"

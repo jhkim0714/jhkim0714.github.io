@@ -9,6 +9,9 @@ redirect_from:
   - /web.html/
 ---
 
+I am a postdoctoral fellow at MIT working with [Loza Tadesse](https://tadesselab.mit.edu/) and supported by the [MIT Postdoctoral Fellowship for Engineering Excellence](https://engineering.mit.edu/the-mit-postdoctoral-fellowship-program-for-engineering-excellence/). 
+
+I obtained my PhD in Mechanical Engineering from Johns Hopkins University with [Ishan Barman](https://www.barman.wse.jhu.edu/). 
 
 Getting started
 ======

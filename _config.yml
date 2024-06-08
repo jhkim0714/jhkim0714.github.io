@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Jeong Hee Kim's Personal Website"
+title                    : "Jeong Hee Kim"
 title_separator          : "-"
 name                     : &name "Jeong Hee Kim"
 description              : &description "personal description"
-url                      : https://jhkim.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://jhkim0714.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jhkim0714/jhkim.github.io"
+repository               : "jhkim0714/web"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Jeong Hee Kim"
   pronouns         : # example: "she/her"
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "MIT"
+  bio              : "School of Engineering Distinguished Postdoctoral Fellow @ MIT"
+  location         : "Cambridge, MA"
+  employer         : #"MIT"
   uri              : # URL
   email            : "jhkim7@mit.edu"
 

@@ -10,6 +10,7 @@ paperurl: 'https://doi.org/10.1126/sciadv.adg6231'
 newsurl1: 'https://www.photonics.com/Articles/Microscopy_Methods_Combine_to_Detect/a69380'
 newsurl2: 'https://www.jhunewsletter.com/article/2023/10/microscopy-methods-have-potential-to-detect-treatment-resistant-cancer-cells-early'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+featured: 'Featured oThis paper is about the number 1. The number 2 is left for future work.'
 ---
 
 Abstract

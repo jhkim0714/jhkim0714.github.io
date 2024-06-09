@@ -27,7 +27,7 @@
     {% endif %}
 
     <h2 class="archive__item-title-nomargin" itemprop="headline">
-      <p> {{ title }}</p>
+      <p> {{ title }} </p>
     </h2>
     
 <!--    <h2 class="archive__item-title-nomargin" itemprop="headline">-->
@@ -48,14 +48,21 @@
         <p class="archive__item-excerpt" itemprop="description"><p>{{ post.authorlist | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
 
-    {% if post.collection == 'teaching' %}
-        <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+    {% if post.collection == 'teaching' and post.date2 %}
+        <p> <ins>{{ post.role }}</ins>, {{ post.date2 | default: "1900-01-01" | date: "%Y" }} - {{ post.date | default: "1900-01-01" | date: "%Y" }} <br> {{ post.type }}, {{ post.dept }}, <i>{{ post.venue }}</i> </p>
+    {% elsif post.collection == 'teaching'%}
+        <p> <ins>{{ post.role }}</ins>, {{ post.date | default: "1900-01-01" | date: "%Y" }} <br> {{ post.type }}, {{ post.dept }}, <i>{{ post.venue }}</i> </p>
     {% elsif post.collection == 'publications' %}
-        <p> Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} | DOI: <a href="{{ post.paperurl }}">{{ post.paperurl }}</a></p>
+        <p class="page__title2"> Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} | DOI: <a href="{{ post.paperurl }}">{{ post.paperurl }}</a> </p>
     {% elsif post.date %}
         <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
     {% endif %}
 
+    
+    {% if post.collection == 'teaching' and post.courseURL %}
+        <p class="page__title2"> Course information available at <a href="{{ post.courseURL }}">Course Listing</a> </p>
+<!--        <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Download Paper</a> | <a href="{{ post.slidesurl }}">Download Slides</a></p>-->
+    {% endif %}
 <!--    {% if post.excerpt and site.read_more != 'enabled' %}-->
 <!--    <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>-->
 <!--    {% elsif post.excerpt and site.read_more == 'enabled' %}-->

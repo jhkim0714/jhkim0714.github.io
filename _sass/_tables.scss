@@ -4,7 +4,7 @@
 
 table {
   margin-bottom: 1em;
-  width: 100%;
+  width: 99%;
   font-family: $global-font-family;
   font-size: $type-size-5;
   border-collapse: collapse;
@@ -21,9 +21,8 @@ thead {
 
 
 td {
-  padding: 0.3em;
+  padding: 0.5em;
   border-bottom: 0px solid $light-gray;
-  border-right: 0px solid $light-gray;
 }
 
 tr, td, th {

@@ -3,7 +3,7 @@ title: "Hyperspectral Raman Imaging for Automated Recognition of Human Renal Amy
 collection: publications
 permalink: /publication/2023-10-13-JHistochemCytochemAmyloid
 excerpt: 'This paper is about fixing template issue #693.'
-authorlist: 'Jeong Hee Kim, Aysel Cetinkaya-Fisgin, Noah Zahn, Mehmet Can Sari, Ahmet Hoke, Ishan Barman'
+authorlist: '**<ins>Jeong Hee Kim</ins>**, Chi Zhang, C John Sperati, Ishan Barman, Serena M Bagnasco'
 date: 2023-10-13
 venue: 'Journal of Histochemistry & Cytochemistry'
 paperurl: 'https://doi.org/10.1369/00221554231206858'

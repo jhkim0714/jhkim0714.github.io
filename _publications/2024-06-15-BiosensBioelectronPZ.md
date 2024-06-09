@@ -1,9 +1,9 @@
 ---
-title: "Label-free plasmonic spectral profiling of serum DNA"
+title: "Label-free Plasmonic Spectral Profiling of Serum DNA"
 collection: publications
 permalink: /publication/2024-06-15-BiosensBioelectronPZ
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-authorlist: 'Peng Zheng, Piyush Raj, Le Liang, Lintong Wu, Santosh Kumar Paidi, Jeong Hee Kim, Ishan Barman'
+authorlist: 'Peng Zheng<sup>1</sup>, Piyush Raj<sup>1</sup>, Le Liang<sup>1</sup>, Lintong Wu, Santosh Kumar Paidi, **<ins>Jeong Hee Kim</ins>**, Ishan Barman'
 date: 2024-06-15
 venue: 'Biosensors and Bioelectronics'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'

@@ -48,6 +48,11 @@
   font-size: $type-size-4;
 }
 
+.page__content-title {
+  border-bottom: 1.5px solid $border-color;
+  text-transform: uppercase;
+}
+
 .page__content {
 
   h2 {
@@ -58,7 +63,15 @@
   p, li, dl {
     font-size: 1em;
   }
+  
+.page__item-excerpt {
+  margin-top: 0;
+  font-size: $type-size-6;
 
+  & + p {
+    text-indent: 0;
+  }
+}
   /* paragraph indents */
   p {
     margin: 0 0 $indent-var;

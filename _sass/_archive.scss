@@ -48,6 +48,16 @@
   }
 }
 
+.archive__item-title-nomargin {
+  margin-bottom: 0;
+  font-size: $type-size-4;
+  font-family: $sans-serif-narrow;
+
+  a + a {
+    opacity: 0.5;
+  }
+}
+
 /* remove border*/
 .page__content {
 
@@ -65,6 +75,7 @@
     text-indent: 0;
   }
 }
+
 
 .archive__item-teaser {
   border-radius: $border-radius;

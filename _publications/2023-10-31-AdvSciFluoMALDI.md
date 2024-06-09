@@ -3,7 +3,7 @@ title: "FluoMALDI Microscopy: Matrix Co-Crystallization Simultaneously Enhances 
 collection: publications
 permalink: /publication/2023-10-31-AdvSciFluoMALDI
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-authorlist: 'Ethan Yang, Xinyi Elaine Shen, Hoku West-Foyle, Tae-Hun Hahm, Maxime A. Siegler, Dalton R. Brown, Cole C. Johnson, Jeong Hee Kim, LaToya Ann Roker, Caitlin M. Tressler, Ishan Barman, Scot C. Kuo, Kristine Glunde'
+authorlist: 'Ethan Yang<sup>1</sup>, Xinyi Elaine Shen<sup>1</sup>, Hoku West-Foyle, Tae-Hun Hahm, Maxime A. Siegler, Dalton R. Brown, Cole C. Johnson, **<ins>Jeong Hee Kim</ins>**, LaToya Ann Roker, Caitlin M. Tressler, Ishan Barman, Scot C. Kuo, Kristine Glunde'
 date: 2023-10-31
 venue: 'Advanced Science'
 slidesurl: 'http://academicpages.github.io/files/slides3.pdf'

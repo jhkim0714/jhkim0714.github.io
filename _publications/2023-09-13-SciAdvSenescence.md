@@ -1,11 +1,11 @@
 ---
-title: "Noninvasive morpho-molecular imaging reveals early therapy-induced senescence in human cancer cells"
+title: "Noninvasive Morpho-molecular Imaging Reveals Early Therapy-induced Senescence in Human Cancer Cells"
 collection: publications
 permalink: /publication/2023-09-13-SciAdvSenescence
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-authorlist: 'ARIANNA BRESCI, JEONG HEE KIM, SILVIA GHISLANZONI, FRANCESCO MANETTI, LINTONG WU, FEDERICO VERNUCCIO, CHIARA CECONELLO, SALVATORE SORRENTINO, ISHAN BARMAN, ITALIA BONGARZONE, GIULIO CERULLO, RENZO VANNA, and DARIO POLLI'
+authorlist: 'Arianna Bresci<sup>1</sup>, **<ins>Jeong Hee Kim<sup>1</sup></ins>**, Silvia Ghislanzoni, Francesco Manetti, Lintong Wu, Federico Vernuccio, Chiara Ceconello, Salvatore Sorrentino, Ishan Barman, Italia Bongarzone, Giulio Cerullo, Renzo Vanna, Dario Polli'
 date: 2023-09-13
-venue: 'SCIENCE ADVANCES'
+venue: 'Science Advances'
 paperurl: 'https://doi.org/10.1126/sciadv.adg6231'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---

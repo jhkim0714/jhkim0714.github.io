@@ -9,7 +9,8 @@ redirect_from:
   - /web.html/
 ---
 
-I am a [School of Engineering Distinguished Postdoctoral Fellow](https://engineering.mit.edu/the-mit-postdoctoral-fellowship-program-for-engineering-excellence/) at MIT working with [Loza Tadesse](https://tadesselab.mit.edu/). I study molecular, physical, and mechanical properties of biological cells and tissues using optical microscopies and spectroscopies. I analyze and correlate these features to enable us better understand complex interplay and dynamics of biological systems.
+I am a [School of Engineering Distinguished Postdoctoral Fellow](https://engineering.mit.edu/the-mit-postdoctoral-fellowship-program-for-engineering-excellence/) at MIT working with [Loza Tadesse](https://tadesselab.mit.edu/). I study molecular, physical, and mechanical properties of biological cells and tissues using optical microscopy and spectroscopy. I analyze and correlate these features to enable us to better understand complex interplay and dynamics of biological systems.
+
 
 I obtained my PhD in Mechanical Engineering from Johns Hopkins University with [Ishan Barman](https://www.barman.wse.jhu.edu/). I previously worked at the mechatronics R&D center of Samsung Electronics, where I worked on developing wafer and photomask inspection systems.
 

@@ -18,9 +18,9 @@ News
 ------
 
 | ------------------- | ------------------------------------------------------------------------------------------------ |
-| <b>2024/06</b>      | I am presenting a poster at [SB3C](https://sb3c.org/) Future Faculty Session in Lake Geneva, WI            |
-| <b>2023/11</b>      | My work on "[Raman Imaging & Machine Learning-based Human Renal Amyloid Detection](https://doi.org/10.1369/00221554231206858)" is featured as cover art of [Journal of Histochemistry & Cytochemistry](https://journals.sagepub.com/loi/jhca/group/d2020.y2023) November issue                                        |
-| <b>2023/09</b>      | My work on "[Label-free Characterization of Therapy-induced Senescence](https://doi.org/10.1126/sciadv.adg6231)" is featured on [Johns Hopkins Hub](https://hub.jhu.edu/2023/09/22/microscopy-cancer-detection/), [Johns Hopkins News Letter](https://www.jhunewsletter.com/article/2023/10/microscopy-methods-have-potential-to-detect-treatment-resistant-cancer-cells-early)                      |
+| <b>2024/06</b>      | I am presenting a poster at the [SB3C](https://sb3c.org/) Future Faculty Session in Lake Geneva, WI            |
+| <b>2023/11</b>      | My work on "[Raman Imaging & Machine Learning-based Human Renal Amyloid Detection](https://doi.org/10.1369/00221554231206858)" is featured as the cover art of [Journal of Histochemistry & Cytochemistry](https://journals.sagepub.com/loi/jhca/group/d2020.y2023) November issue                                       |
+| <b>2023/09</b>      | My work on "[Label-free Characterization of Therapy-induced Senescence](https://doi.org/10.1126/sciadv.adg6231)" is featured on [Johns Hopkins Hub](https://hub.jhu.edu/2023/09/22/microscopy-cancer-detection/) and [Johns Hopkins News Letter](https://www.jhunewsletter.com/article/2023/10/microscopy-methods-have-potential-to-detect-treatment-resistant-cancer-cells-early)                      |
 
 
 Selected Publications

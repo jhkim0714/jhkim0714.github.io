@@ -28,8 +28,8 @@ Selected Publications
 
 | ------------------------------------------------------------------------------------- | ----------------- | ------------------ |
 | <img src='/images/ToC_AdvBiol.jpeg' width="650px" height="auto" style="vertical-align:middle" /> | Label‐Free Visualization and Morphological Profiling of Neuronal Differentiation and Axonal Degeneration through Quantitative Phase Imaging, <i>Advanced Biology</i> (2024) | <small>[DOI](https://doi.org/10.1369/00221554231206858)</small> | 
-| <img src='/images/ToC_RaMALDI.jpg' width="650px" height="auto" style="vertical-align:middle" /> | RaMALDI: enabling simultaneous Raman and MALDI imaging of the same tissue section, <i>Biosensors and Bioelectronics</i> (2023) | <small>[DOI](https://doi.org/10.1016/j.bios.2023.115597)</small> |
-| <img src='/images/QPI_Senescence.jpg' width="650px" height="auto" style="vertical-align:middle" /> | Noninvasive morpho-molecular imaging reveals early therapy-induced senescence in human cancer cells, <i>Science Advances</i> (2023) | <small>[DOI](https://doi.org/10.1126/sciadv.adg6231)</small> |
+| <img src='/images/ToC_RaMALDI.jpg' width="650px" height="auto" style="vertical-align:middle" /> | RaMALDI: Enabling Simultaneous Raman and MALDI Imaging of the Same Tissue Section, <i>Biosensors and Bioelectronics</i> (2023) | <small>[DOI](https://doi.org/10.1016/j.bios.2023.115597)</small> |
+| <img src='/images/QPI_Senescence.jpg' width="650px" height="auto" style="vertical-align:middle" /> | Noninvasive Morpho-molecular Imaging Reveals Early Therapy-induced Senescence in Human Cancer Cells, <i>Science Advances</i> (2023) | <small>[DOI](https://doi.org/10.1126/sciadv.adg6231)</small> |
 | <img src='/images/ToC_Amyloid.jpg' width="650px" height="auto" style="vertical-align:middle" /> | Non-Perturbative Identification and Subtyping of Amyloidosis in Human Kidney Tissue with Raman Spectroscopy and Machine Learning, <i>Biosensors</i> (2023) | <small>[DOI](https://doi.org/10.3390/bios13040466)</small> |
 
 See [all publications](https://jhkim0714.github.io/publications)

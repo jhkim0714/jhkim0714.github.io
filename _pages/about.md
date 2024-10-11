@@ -18,7 +18,7 @@ News
 ------
 
 | ------------------- | ------------------------------------------------------------------------------------------------ |
-| <b>2024/10</b>      | I am attending the [BMES](https://www.bmes.org/bmes2024) in Baltimore, MD. Come to my presentations at: <br />1) <u>Meet The Faculty Candidate Forum</u> (Exhibit Hall E, F & G - Poster 57) on 10/23 (Wed) 2-5 PM <br />2) <u>Biomedical Imaging and Instrumentation - Poster Session</u> (Exhibit Hall E, F & G - Poster R11) on 10/25 (Fri) 10-11 AM.            |
+| <b>2024/10</b>      | I am attending the [BMES](https://www.bmes.org/bmes2024) in Baltimore, MD. Come to my presentations: <br />10/23 (Wed) 2-5 PM<u>Meet The Faculty Candidate Forum</u> (Exhibit Hall E, F & G - Poster 57) <br />10/25 (Fri) 10-11 AM <u>Biomedical Imaging and Instrumentation - Poster Session</u> (Exhibit Hall E, F & G - Poster R11)            |
 | <b>2024/10</b>      | I am attending the [Rising Stars in Mechanical Engineering](https://www.meche.engineering.cmu.edu/rising-stars.html) workshop at Carnegie Mellon University in Pittsburgh, PA            |
 | <b>2024/09</b>      | I received Diversity Travel Award to attend the [Brillouin Summer School](https://www.brilloptics.org/brillouin-summer-school.html) at Wayne State University in Detroit, MI            |
 | <b>2024/08</b>      | I am attending the [NextProf Nexus](https://nextprof.engin.umich.edu/nextprof-nexus/) workshop at the University of Michigan in Ann Arbor, MI            |

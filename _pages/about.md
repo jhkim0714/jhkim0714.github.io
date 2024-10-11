@@ -18,7 +18,7 @@ News
 ------
 
 | ------------------- | ------------------------------------------------------------------------------------------------ |
-| <b>2024/10</b>      | I am attending the [BMES](https://www.bmes.org/bmes2024) in Baltimore, MD. Come to my presentations: <br />10/23 (Wed) 2-5 PM<u>Meet The Faculty Candidate Forum</u> (Exhibit Hall E, F & G - Poster 57) <br />10/25 (Fri) 10-11 AM <u>Biomedical Imaging and Instrumentation - Poster Session</u> (Exhibit Hall E, F & G - Poster R11)            |
+| <b>2024/10</b>      | I am attending the [BMES](https://www.bmes.org/bmes2024) in Baltimore, MD. Come to my presentations: <br />  <b>23 (Wed) 2-5 PM</b> <u>Meet The Faculty Candidate Forum</u> (Exhibit Hall E, F & G - Poster 57) <br />  <b>25 (Fri) 10-11 AM</b> <u>Biomedical Imaging and Instrumentation - Poster Session</u> (Exhibit Hall E, F & G - Poster R11)            |
 | <b>2024/10</b>      | I am attending the [Rising Stars in Mechanical Engineering](https://www.meche.engineering.cmu.edu/rising-stars.html) workshop at Carnegie Mellon University in Pittsburgh, PA            |
 | <b>2024/09</b>      | I gave a guest lecture in Univ. of Florida's course on [Bio-solid Mechanics: Science, Engineering, Art, and Humanity](https://mae.ufl.edu/wp-content/uploads/gravity_forms/4-733e705ca6cf77d85a88e5eaa85d34fc/2024/08/egm-4592_fall2024.pdf)            |
 | <b>2024/09</b>      | I received Diversity Travel Award to attend the [Brillouin Summer School](https://www.brilloptics.org/brillouin-summer-school.html) at Wayne State University in Detroit, MI            |

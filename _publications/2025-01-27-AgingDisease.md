@@ -1,5 +1,5 @@
 ---
-title: "Raman Spectroscopy in Cellular and Tissue Aging Research"
+title: "Unveiling Lipid Droplet Transport Dynamics as Biomarkers of Senescence Using Label-Free, Time-Lapse Holotomography"
 collection: publications
 permalink: /publication/2025-01-27-AgingDisease
 excerpt: 'This paper is about fixing template issue #693.'
